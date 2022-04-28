@@ -1,4 +1,4 @@
-# (millimango) package to pypi.org
+#  MILLI-MANGO package to pypi.org
 
 PyPi: https://pypi.org/project/millimango/
 
@@ -10,6 +10,11 @@ open CMD / Terminal
 
 ```python
 pip install millimango
+```
+or
+
+```python
+python -m pip install millimango
 ```
 
 ### How to use
